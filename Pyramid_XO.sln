@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pyramid_XO", "c#FormsTest\Pyramid_XO.csproj", "{81E77EBA-65CB-4303-A08C-F014A5B7EDB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81E77EBA-65CB-4303-A08C-F014A5B7EDB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81E77EBA-65CB-4303-A08C-F014A5B7EDB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81E77EBA-65CB-4303-A08C-F014A5B7EDB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81E77EBA-65CB-4303-A08C-F014A5B7EDB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5B279E3-507E-4DFD-9162-B0A2C743AB32}
+	EndGlobalSection
+EndGlobal
